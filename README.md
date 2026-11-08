@@ -4,6 +4,13 @@
   <img src="images/complete-system.jpg" alt="Complete hand-controlled robot car and controller" width="760">
 </p>
 
+
+## 🎥 Project Demo
+
+Watch the complete hand-controlled robot car in action:
+
+▶️ [Watch the Robot Car Demo on YouTube](www.youtube.com/watch?v=1az4MVklXBA)
+
 <p align="center">
   <b>A wireless 4WD robot car controlled by hand distance — no phone, joystick, or Wi-Fi router required.</b>
 </p>
