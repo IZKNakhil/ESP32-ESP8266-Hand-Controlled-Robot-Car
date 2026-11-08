@@ -7,9 +7,9 @@
 
 ## 🎥 Project Demo
 
-Watch the complete hand-controlled robot car in action:
-
-▶️ [Watch the Robot Car Demo on YouTube] www.youtube.com/watch?v=1az4MVklXBA
+<p align="center">
+  🎥 <a href="www.youtube.com/watch?v=1az4MVklXBA">Watch the Robot Car in Action on YouTube</a>
+</p>
 
 <p align="center">
   <b>A wireless 4WD robot car controlled by hand distance — no phone, joystick, or Wi-Fi router required.</b>
