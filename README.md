@@ -1,7 +1,7 @@
 # ESP32 + ESP8266 Hand-Controlled Robot Car
 
 <p align="center">
-  <img src="images/complete-system.jpg" alt="Complete hand-controlled robot car and controller" width="760">
+  <img src="complete-system.jpg" alt="Complete hand-controlled robot car and controller" width="760">
 </p>
 
 ## 🎥 Project Demo
